@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TheF2ERookieChallenge_1f/precache-manifest.f9e2ff010316f87c4a106d1d6c74477e.js"
+  "/TheF2ERookieChallenge_1f/precache-manifest.e6b0627846b4b04320b79713750c8e60.js"
 );
 
 workbox.clientsClaim();
