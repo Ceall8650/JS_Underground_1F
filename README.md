@@ -1,5 +1,5 @@
 
-# The F2E Underground - 1F_Multiplication-Chart
+# JS Underground - 1F_Multiplication-Chart
 ## Available Scripts
 
 In the project directory, you can run:
